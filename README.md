@@ -1,7 +1,7 @@
 # dAI-Application-Development
 Create applications that leverage the Service Marketplace to perform decentralized AI inferences, enabling transparent, on-chain interactions between AI model providers and users. Build-Smart Contract Analyzer, Cross-Chain Assistant, Web3 Documentation, DeFi Code Generator, Protocol Test Generator, API Doc Generator, Code Tutor Bot, Query Optimizer
 
-#Idea List to build:
+# Idea List to build:
 
 Smart Contract Analyzer: Tool that reviews smart contracts for vulnerabilities and suggests gas optimizations.
 Cross-Chain Assistant: System that helps generate and test cross-chain integration code.
